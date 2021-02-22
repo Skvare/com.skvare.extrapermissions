@@ -186,7 +186,7 @@ function extrapermissions_civicrm_permission(&$permissions) {
       'export grant' => $prefix . ts('Export Grant'),
       'export case' => $prefix . ts('Export Case'),
       'export activity' => $prefix . ts('Export Activity'),
-      'export campaign' => $prefix . ts('Export Aampaign'),
+      'export campaign' => $prefix . ts('Export Campaign'),
     ];
 }
 
