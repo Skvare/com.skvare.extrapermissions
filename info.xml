@@ -26,5 +26,6 @@
   </classloader>
   <civix>
     <namespace>CRM/Extrapermissions</namespace>
+    <format>23.02.1</format>
   </civix>
 </extension>
